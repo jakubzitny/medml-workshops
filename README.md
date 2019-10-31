@@ -24,6 +24,7 @@ WIP
 - [Cell data and PCA](./cells-pca.ipynb)
 - [Keras and CNNs](./colab-keras-intro.ipynb)
 - [Kidney tumours](./kidney-tumours.ipynb)
+- [PPG/ECG data playground](./ppg-ecg-playground.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakubzitny/medml-workshops/blob/master/ppg-ecg-playground.ipynb)
 
 
 ### My other courses
