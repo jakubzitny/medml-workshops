@@ -13,7 +13,7 @@ WIP
 
 ### Parts
 
-1. [Introduction — motivation, data and tools](./introduction.ipynb) [![Launch in Deepnote](https://beta.deepnote.com/buttons/launch-in-deepnote.svg)](https://beta.deepnote.com/project/a53ef107-6e31-47d1-87c3-dd74da9267fe#%2Fmedical-data.ipynb)
+1. [Introduction — motivation, data and tools](./introduction.ipynb) [<img alt="Launch in Deepnote" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg" height="22px"/>](https://beta.deepnote.com/project/a53ef107-6e31-47d1-87c3-dd74da9267fe#%2Fmedical-data.ipynb)
 2. CNNs, organ segmentation, tumours
 3. Augmenting data with GANs
 
@@ -24,7 +24,7 @@ WIP
 - [Cell data and PCA](./cells-pca.ipynb)
 - [Keras and CNNs](./colab-keras-intro.ipynb)
 - [Kidney tumours](./kidney-tumours.ipynb)
-- [PPG/ECG data playground](./ppg-ecg-playground.ipynb) [![Launch in Deepnote](https://beta.deepnote.com/buttons/launch-in-deepnote.svg)](https://beta.deepnote.com/project/a53ef107-6e31-47d1-87c3-dd74da9267fe#%2Fppg-ecg-playground.ipynb)
+- [PPG/ECG data playground](./ppg-ecg-playground.ipynb) [<img alt="Launch in Deepnote" src="https://beta.deepnote.com/buttons/launch-in-deepnote.svg" height="22px"/>](https://beta.deepnote.com/project/a53ef107-6e31-47d1-87c3-dd74da9267fe#%2Fppg-ecg-playground.ipynb)
 
 
 ### My other courses
